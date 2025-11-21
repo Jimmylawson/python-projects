@@ -1,0 +1,79 @@
+# Python Number Theory Projects
+
+A collection of mathematical and number theory projects implemented in Python.
+
+## 🚀 Active Projects
+
+### 1. Pi to the Nth Digit
+- **File**: `piNth.py`
+- **Status**: In Progress
+- **Description**: A program that generates π (pi) up to a user-specified number of decimal places.
+- **Features**:
+  - Input validation
+  - Configurable precision
+  - Clean output formatting
+
+## 📋 Project Backlog
+
+### Mathematical Constants
+1. **e to the Nth Digit**  
+   Generate e (Euler's number) to a specified precision.
+
+### Number Sequences
+2. **Fibonacci Sequence Generator**  
+   Generate Fibonacci numbers up to N terms or a maximum value.
+
+### Prime Numbers
+3. **Prime Factorization**  
+   Find all prime factors of a given number.
+4. **Next Prime Number**  
+   Generate prime numbers sequentially on demand.
+
+### Financial Calculators
+5. **Mortgage Calculator**  
+   Calculate monthly payments and loan duration with various compounding intervals.
+6. **Change Return Calculator**  
+   Calculate change and breakdown by coin denominations.
+
+### Converters
+7. **Binary-Decimal Converter**  
+   Convert between binary and decimal number systems.
+8. **Unit Converter**  
+   Convert between different units (temperature, currency, volume, mass).
+
+### Mathematical Operations
+9. **Factorial Calculator**  
+   Calculate factorials using both iterative and recursive methods.
+10. **Complex Number Algebra**  
+    Perform operations with complex numbers.
+
+### Number Theory
+11. **Happy Numbers**  
+    Identify happy numbers and demonstrate the process.
+12. **Number Names**  
+    Convert numbers to their English word equivalents.
+
+### Simulations
+13. **Coin Flip Simulator**  
+    Simulate coin flips and track statistics.
+
+### Advanced Mathematics
+14. **Limit Calculator**  
+    Calculate mathematical limits of functions.
+15. **Fast Exponentiation**  
+    Efficiently compute a^b using O(log n) time complexity.
+
+## 📊 Project Status Legend
+- 🔄 In Progress
+- ✅ Completed
+- ⏳ Planned
+- 🔄 In Review
+
+## 📝 How to Contribute
+1. Fork the repository
+2. Create a new branch for your feature
+3. Add your implementation
+4. Submit a pull request
+
+## 📜 License
+This project is open source and available under the MIT License.
