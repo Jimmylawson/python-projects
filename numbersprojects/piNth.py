@@ -18,7 +18,7 @@ def NthDigit():
             return
         getcontext().prec = n + 1
         pi = Decimal(math.pi)
-        print(f"n to {n} decimal places: {pi:.{n}f}")
+        print(f"n to {n} decimal places: {pi:.{n}f}") # f-string formatting
     except ValueError:
         print("Please enter a valid number")
         return
